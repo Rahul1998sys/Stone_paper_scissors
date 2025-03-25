@@ -26,7 +26,7 @@ A fun **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**! �
 ![Game Preview](Stp_screenshot.png)  
 
 ## 🔗 Live Demo
-👉 [Play Now](file:///C:/Users/Dell/Desktop/Desktop%20Files/Desktop's%20Application/HTML,CSS,JS/JavaScript/MiniProject%202_-_Stone,_Paper___Scissors_Game/index.html)  
+👉 [Play Now](https://rahul1998sys.github.io/Stone_paper_scissors/)  
 
 ## 🤝 Contributing
 Want to improve this game? Feel free to **fork, star ⭐, and contribute!**  
