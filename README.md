@@ -20,10 +20,7 @@ A fun **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**! �
 
 ## 🖥️ Tech Stack
 - **Frontend:** HTML, CSS  
-- **Logic:** JavaScript  
-
-## 📸 Screenshots
-![Game Preview](Stp_screenshot.png)  
+- **Logic:** JavaScript   
 
 ## 🔗 Live Demo
 👉 [Play Now](https://rahul1998sys.github.io/Stone_paper_scissors/)  
